@@ -27,7 +27,7 @@ Place the screenshot in an `Images` folder in your project and use the following
 
 ### Example
 
-![Power BI Funnel Chart - Customer Conversion Stages](images\image09.png)
+![Power BI Funnel Chart - Customer Conversion Stages](https://github.com/Ganesh-Ganga/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/16.%20Funnel%20Chart/images/image09.png)
 
 > **Note:** If your image has a different filename, replace `funnel_chart.png` with the actual image filename.
 
