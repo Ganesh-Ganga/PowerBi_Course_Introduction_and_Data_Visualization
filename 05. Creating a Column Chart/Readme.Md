@@ -190,7 +190,7 @@ Legend  → Region
 
 ## 📸 Column Chart Created
 
-![Power BI Column Chart](Images/column_chart.png)
+![Power BI Column Chart](https://github.com/Ganesh-Ganga/PowerBi_Course_Introduction_and_Data_Visualization/blob/main/05.%20Creating%20a%20Column%20Chart/Images/image05.png)
 
 **Figure:** Stacked Column Chart showing Sales by Segment and Region.
 
